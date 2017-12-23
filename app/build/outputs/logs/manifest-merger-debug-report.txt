@@ -1,0 +1,274 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:2:1-45:12
+MERGED from [com.google.android.gms:play-services-maps:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.0.1.aar\d38c8d85a90b4dba41c1c013cd3b25cf\AndroidManifest.xml:16:1-28:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\834852720a85d0ebad4b0f04f55b2242\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\63c54ce1648376203ed1bb8f36fa09e9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-base:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.1.aar\2bff84a28670855a14a50add79c822f5\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-common:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.1.aar\1b83f9e51bb6bf52f5e081a77f2f63f0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-tasks:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.0.1.aar\bfb8a6ef56b70e47375d42b4579d6ca3\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.1.aar\1e3b642ed6c59fad4deee55d99ff2f77\AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\bd2fe98691f1d0e428dfc060118c6871\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d62729a2fcc0a865062ae129371e431a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4fdd8e236cf86ce892fe6e1c6d9aa0d9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\eba4e8eda2a2503a30f1ce61772498b9\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\3732dde4e90e463536a77fb2ec73a85b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\4c3840ff7b8a3453e8d8fe3b4e4a4ff9\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\63e272752cbf7bcf7bb13277f20e54fe\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\fa86b371c05ff9132c030d83cd37c12a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5980d0f5e4637459fb92431c0fc0f1b7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7560928acd9c910c17c1fb01eeac864b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\95429c3c328cb48a6805a05205725a4a\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b80878d5181ead2fe899d9e76a662fb2\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-maps:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.0.1.aar\d38c8d85a90b4dba41c1c013cd3b25cf\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.0.1.aar\d38c8d85a90b4dba41c1c013cd3b25cf\AndroidManifest.xml:26:5-42
+MERGED from [com.android.support:design:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\834852720a85d0ebad4b0f04f55b2242\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\834852720a85d0ebad4b0f04f55b2242\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\63c54ce1648376203ed1bb8f36fa09e9\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\63c54ce1648376203ed1bb8f36fa09e9\AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-base:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.1.aar\2bff84a28670855a14a50add79c822f5\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.1.aar\2bff84a28670855a14a50add79c822f5\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.1.aar\1b83f9e51bb6bf52f5e081a77f2f63f0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.1.aar\1b83f9e51bb6bf52f5e081a77f2f63f0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.0.1.aar\bfb8a6ef56b70e47375d42b4579d6ca3\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.0.1.aar\bfb8a6ef56b70e47375d42b4579d6ca3\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.1.aar\1e3b642ed6c59fad4deee55d99ff2f77\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.1.aar\1e3b642ed6c59fad4deee55d99ff2f77\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:transition:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\bd2fe98691f1d0e428dfc060118c6871\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\bd2fe98691f1d0e428dfc060118c6871\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d62729a2fcc0a865062ae129371e431a\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d62729a2fcc0a865062ae129371e431a\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4fdd8e236cf86ce892fe6e1c6d9aa0d9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4fdd8e236cf86ce892fe6e1c6d9aa0d9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\eba4e8eda2a2503a30f1ce61772498b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\eba4e8eda2a2503a30f1ce61772498b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\3732dde4e90e463536a77fb2ec73a85b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\3732dde4e90e463536a77fb2ec73a85b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\4c3840ff7b8a3453e8d8fe3b4e4a4ff9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\4c3840ff7b8a3453e8d8fe3b4e4a4ff9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\63e272752cbf7bcf7bb13277f20e54fe\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\63e272752cbf7bcf7bb13277f20e54fe\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\fa86b371c05ff9132c030d83cd37c12a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\fa86b371c05ff9132c030d83cd37c12a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5980d0f5e4637459fb92431c0fc0f1b7\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5980d0f5e4637459fb92431c0fc0f1b7\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7560928acd9c910c17c1fb01eeac864b\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7560928acd9c910c17c1fb01eeac864b\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\95429c3c328cb48a6805a05205725a4a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\95429c3c328cb48a6805a05205725a4a\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b80878d5181ead2fe899d9e76a662fb2\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b80878d5181ead2fe899d9e76a662fb2\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\834852720a85d0ebad4b0f04f55b2242\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.0.1.aar\d38c8d85a90b4dba41c1c013cd3b25cf\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.0.1.aar\d38c8d85a90b4dba41c1c013cd3b25cf\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:12:5-98
+	android:name
+		ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:12:22-95
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:16:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:17:22-77
+application
+ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:19:5-43:19
+MERGED from [com.google.android.gms:play-services-maps:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.0.1.aar\d38c8d85a90b4dba41c1c013cd3b25cf\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.0.1.aar\d38c8d85a90b4dba41c1c013cd3b25cf\AndroidManifest.xml:27:5-20
+MERGED from [com.android.support:design:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\834852720a85d0ebad4b0f04f55b2242\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\834852720a85d0ebad4b0f04f55b2242\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\63c54ce1648376203ed1bb8f36fa09e9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\63c54ce1648376203ed1bb8f36fa09e9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-base:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.1.aar\2bff84a28670855a14a50add79c822f5\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.1.aar\2bff84a28670855a14a50add79c822f5\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-common:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.1.aar\1b83f9e51bb6bf52f5e081a77f2f63f0\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.firebase:firebase-common:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.1.aar\1b83f9e51bb6bf52f5e081a77f2f63f0\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.0.1.aar\bfb8a6ef56b70e47375d42b4579d6ca3\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.0.1.aar\bfb8a6ef56b70e47375d42b4579d6ca3\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.1.aar\1e3b642ed6c59fad4deee55d99ff2f77\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.1.aar\1e3b642ed6c59fad4deee55d99ff2f77\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\bd2fe98691f1d0e428dfc060118c6871\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\bd2fe98691f1d0e428dfc060118c6871\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d62729a2fcc0a865062ae129371e431a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d62729a2fcc0a865062ae129371e431a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4fdd8e236cf86ce892fe6e1c6d9aa0d9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4fdd8e236cf86ce892fe6e1c6d9aa0d9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\eba4e8eda2a2503a30f1ce61772498b9\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\eba4e8eda2a2503a30f1ce61772498b9\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\3732dde4e90e463536a77fb2ec73a85b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\3732dde4e90e463536a77fb2ec73a85b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\4c3840ff7b8a3453e8d8fe3b4e4a4ff9\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\4c3840ff7b8a3453e8d8fe3b4e4a4ff9\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\63e272752cbf7bcf7bb13277f20e54fe\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\63e272752cbf7bcf7bb13277f20e54fe\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\fa86b371c05ff9132c030d83cd37c12a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\fa86b371c05ff9132c030d83cd37c12a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5980d0f5e4637459fb92431c0fc0f1b7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5980d0f5e4637459fb92431c0fc0f1b7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7560928acd9c910c17c1fb01eeac864b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7560928acd9c910c17c1fb01eeac864b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\95429c3c328cb48a6805a05205725a4a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\95429c3c328cb48a6805a05205725a4a\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b80878d5181ead2fe899d9e76a662fb2\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b80878d5181ead2fe899d9e76a662fb2\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:22:9-41
+	android:roundIcon
+		ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:23:9-54
+	android:icon
+		ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:24:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:25:9-27:71
+	android:value
+		ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:27:13-68
+	android:name
+		ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:26:13-58
+activity#com.corvaisinc.amuseum.MainActivity
+ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:29:9-38:20
+	android:screenOrientation
+		ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:31:13-49
+	android:label
+		ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:30:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:36:27-74
+activity#com.corvaisinc.amuseum.InfoActivity
+ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:39:9-42:20
+	android:screenOrientation
+		ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:41:13-49
+	android:name
+		ADDED from D:\ISMIN\3A\CS\Android\Projet\code\Amuseum_final\Version Finale\AMuseum - V11\app\src\main\AndroidManifest.xml:40:13-41
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.0.1.aar\d38c8d85a90b4dba41c1c013cd3b25cf\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.0.1.aar\d38c8d85a90b4dba41c1c013cd3b25cf\AndroidManifest.xml:20:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.0.1.aar\d38c8d85a90b4dba41c1c013cd3b25cf\AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.0.1.aar\d38c8d85a90b4dba41c1c013cd3b25cf\AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.0.1.aar\d38c8d85a90b4dba41c1c013cd3b25cf\AndroidManifest.xml:24:8-31
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\834852720a85d0ebad4b0f04f55b2242\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\63c54ce1648376203ed1bb8f36fa09e9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\63c54ce1648376203ed1bb8f36fa09e9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\bd2fe98691f1d0e428dfc060118c6871\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\bd2fe98691f1d0e428dfc060118c6871\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d62729a2fcc0a865062ae129371e431a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d62729a2fcc0a865062ae129371e431a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\eba4e8eda2a2503a30f1ce61772498b9\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\eba4e8eda2a2503a30f1ce61772498b9\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\3732dde4e90e463536a77fb2ec73a85b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\3732dde4e90e463536a77fb2ec73a85b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\4c3840ff7b8a3453e8d8fe3b4e4a4ff9\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\4c3840ff7b8a3453e8d8fe3b4e4a4ff9\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\63e272752cbf7bcf7bb13277f20e54fe\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\63e272752cbf7bcf7bb13277f20e54fe\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\fa86b371c05ff9132c030d83cd37c12a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\fa86b371c05ff9132c030d83cd37c12a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5980d0f5e4637459fb92431c0fc0f1b7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5980d0f5e4637459fb92431c0fc0f1b7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7560928acd9c910c17c1fb01eeac864b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7560928acd9c910c17c1fb01eeac864b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\95429c3c328cb48a6805a05205725a4a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\95429c3c328cb48a6805a05205725a4a\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\834852720a85d0ebad4b0f04f55b2242\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\834852720a85d0ebad4b0f04f55b2242\AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.1.aar\2bff84a28670855a14a50add79c822f5\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.1.aar\2bff84a28670855a14a50add79c822f5\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.1.aar\2bff84a28670855a14a50add79c822f5\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.1.aar\2bff84a28670855a14a50add79c822f5\AndroidManifest.xml:20:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.1.aar\1b83f9e51bb6bf52f5e081a77f2f63f0\AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.1.aar\1b83f9e51bb6bf52f5e081a77f2f63f0\AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.1.aar\1b83f9e51bb6bf52f5e081a77f2f63f0\AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.1.aar\1b83f9e51bb6bf52f5e081a77f2f63f0\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.1.aar\1b83f9e51bb6bf52f5e081a77f2f63f0\AndroidManifest.xml:9:13-58
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.1.aar\1e3b642ed6c59fad4deee55d99ff2f77\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.1.aar\1e3b642ed6c59fad4deee55d99ff2f77\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.0.1] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.1.aar\1e3b642ed6c59fad4deee55d99ff2f77\AndroidManifest.xml:22:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b80878d5181ead2fe899d9e76a662fb2\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b80878d5181ead2fe899d9e76a662fb2\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\quent\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b80878d5181ead2fe899d9e76a662fb2\AndroidManifest.xml:26:13-58
